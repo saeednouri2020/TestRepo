@@ -1,3 +1,7 @@
-#get-exchagne server
+
+
+Write-Host "helo" -ForegroundColor Red
+
+
 
 
