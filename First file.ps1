@@ -1,2 +1,0 @@
-Get-Command -Noun Computer
-
