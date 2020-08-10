@@ -2,7 +2,4 @@
 
 
 
-
-Get-Command
-Get-Acl
-Get-AppBackgroundTask
+#this is test
